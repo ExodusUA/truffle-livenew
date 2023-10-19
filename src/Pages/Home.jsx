@@ -24,7 +24,7 @@ function Home() {
                 <Link to="/terms"><button className='bg-transparent border-[1px] border-green py-2.5 px-8 rounded-[100px] duration-200 text-green text-[16px]'>Terms and Conditions</button></Link>
                 <Link to="/privacy"><button className='bg-[#26B35E] py-2.5 px-8 rounded-[100px] duration-200 text-white text-[16px] hover:bg-[#26B35E]/80'>Privacy Policy</button></Link>
                 <Link to="mailto:support@trufflelive.com"><button className='bg-[#26B35E] py-2.5 px-8 rounded-[100px] duration-200 text-white text-[16px] hover:bg-[#26B35E]/80'>Contact Us</button></Link>
-                <Link to="https://truffle-live.vercel.app/" target='_blank'><button className='bg-black py-2.5 rounded-[100px] text-white px-16 text-[16px] duration-200 hover:bg-black/90'>Developer’s Account</button></Link>
+                <Link to="https://trufflelive.com" target='_blank'><button className='bg-black py-2.5 rounded-[100px] text-white px-16 text-[16px] duration-200 hover:bg-black/90'>Developer’s Account</button></Link>
 
             </div>
             <div className='text-center mb-8'>
